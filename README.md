@@ -1,4 +1,4 @@
-# 💻 Fake Hack Simulator
+#  Fake Hack Simulator
 
 A **fake hack simulator** built in Python – perfect for pranks, video effects, or just impressing your friends (without doing anything illegal, of course!).
 
@@ -6,7 +6,7 @@ A **fake hack simulator** built in Python – perfect for pranks, video effects,
 
 ---
 
-## 🔧 Features
+##  Features
 
 - "Live" console output like in the movies  
 - Simulates hacking passwords, networks, and secure systems  
@@ -15,7 +15,7 @@ A **fake hack simulator** built in Python – perfect for pranks, video effects,
 
 ---
 
-## 🎮 Example
+##  Example
 
 ```bash
-$ python fake_hack.py
+$ python dedsec_hack_simulator.py
